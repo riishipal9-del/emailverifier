@@ -1,0 +1,9 @@
+test@gmail.com
+invalid.email
+user@gmial.com
+admin@example.org
+test@10minutemail.com
+valid@yahoo.com
+notanemail
+user@hotmial.com
+test123@outlook.com
