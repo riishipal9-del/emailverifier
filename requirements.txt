@@ -1,0 +1,3 @@
+tkinter
+dnspython==2.3.0
+pillow==10.0.0
