@@ -17,6 +17,49 @@ This application helps validate email addresses through multiple verification st
 - Detailed verification steps with visual indicators
 - Comprehensive results display
 
+## System Requirements
+
+Before installing the application, ensure you have Python 3.6 or higher installed on your system.
+
+### Checking if Python is installed
+
+To check if Python is installed on your VPS or local machine:
+
+```bash
+# Check Python version
+python --version
+# or
+python3 --version
+```
+
+If Python is not installed, you can install it:
+- **Ubuntu/Debian**: `sudo apt update && sudo apt install python3 python3-pip`
+- **CentOS/RHEL**: `sudo yum install python3 python3-pip`
+- **macOS**: `brew install python3`
+
+### Checking if Node.js is installed (Optional)
+
+While Node.js is not required for this application, if you need to check if it's installed:
+
+```bash
+# Check Node.js version
+node --version
+# or
+node -v
+```
+
+```bash
+# Check npm version
+npm --version
+# or
+npm -v
+```
+
+If Node.js is not installed and you need it for other purposes:
+- **Ubuntu/Debian**: `sudo apt update && sudo apt install nodejs npm`
+- **CentOS/RHEL**: `sudo yum install nodejs npm`
+- **macOS**: `brew install node`
+
 ## Installation
 
 1. Clone this repository:
